@@ -1,4 +1,8 @@
-## Hi there 👋
+## Sobre mi 👋
+
+Actualmente soy estudiante en el instituto Cibertec
+
+
 
 <!--
 **Kevin-Olazo/Kevin-Olazo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
