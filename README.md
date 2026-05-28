@@ -1,6 +1,6 @@
 ## Sobre mi 👋
 
-Actualmente soy estudiante en el instituto Cibertec
+Actualmente estudiante en el instituto Cibertec
 
 
 
