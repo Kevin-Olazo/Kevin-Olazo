@@ -1,6 +1,6 @@
 ## Sobre mi 👋
 
-Actualmente estudiante en el instituto Cibertec
+Estudiante de Computación e Informática en Cibertec, enfocado en backend con **Java y Spring Boot**. Buscando prácticas pre-profesionales.
 
 
 
